@@ -1,4 +1,4 @@
-Job Quest
+Job Quest:
 
 Job Quest is a mobile application concept designed in Figma to streamline the job search process. The app empowers users to discover, track, and connect with career opportunities that align with their skills and aspirations. With a user-friendly interface, Job Quest offers features like personalized job recommendations, application tracking, and industry trend insights.
 
